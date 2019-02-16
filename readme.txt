@@ -10,7 +10,6 @@ This software is free and open source.
 - *I* am the software author. *I* might be a *we*, but that's OK.
 - *You* are the user of this software. *You* might also be a *we*, and that's also OK!
 
-
 >if "you" are actualy microsoft,or apple you are allready a jerk, PLEASE dont use "my" code.
 
 >google and alphabet, you can use my code but "I" want to be mentioned in some way and a e(g)mail would be nice (I know that you know who "I" am) =) readding "dont be EVIL to your Code of Conduct would allso be good
@@ -29,6 +28,9 @@ This software is free and open source.
 > If you add a new feature or fix a bug, it would be nice if you contributed it back to the project.  You don't have to, but not doing so would make you a jerk.The repository/site you obtained this software from should contain a way for you to contact me.  Contributing to open source makes you awesome!
 
 > If you use this software, you don't have to give me any credit, but it would be really nice.
+
+>don't(use this software to )be a evil
+
 
 Don't be a jerk.
 Enjoy your free software!
