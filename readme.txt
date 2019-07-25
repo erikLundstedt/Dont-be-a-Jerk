@@ -12,7 +12,9 @@ This software is free and open source.
 
 >if "you" are actualy microsoft,or apple you are allready a jerk, PLEASE dont use "my" code.
 
->google and alphabet, you can use my code but "I" want to be mentioned in some way and a e(g)mail would be nice (I know that you know who "I" am) =) readding "dont be EVIL to your Code of Conduct would allso be good
+>google and alphabet, you can use my code but "I" want to be mentioned in some way and a e(g)mail would be nice
+(I know that you know who "I" am) =) adding "dont be EVIL to your Code of Conduct again would allso be nice
+
 > This is free software.  I will never charge you to use, license, or obtain this software.  Doing so would make me a jerk.
 
 > I will never take down or start charging for what is available today.  Doing so would make me a jerk.
@@ -29,7 +31,7 @@ This software is free and open source.
 
 > If you use this software, you don't have to give me any credit, but it would be really nice.
 
->don't(use this software to )be a evil
+>don't(use this software to )be evil
 
 
 Don't be a jerk.
