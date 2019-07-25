@@ -1,5 +1,5 @@
 Don't Be a Jerk: The Open Source Software License.
-Last Update: February 16 2019
+Last Update: july 25 2019
 
 this licence is a branch of https://github.com/evantahler/Dont-be-a-Jerk
 it contains end user specific exeptions to the original licence
