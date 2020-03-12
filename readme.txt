@@ -10,7 +10,7 @@ This software is free and open source.
 - *I* am the software author. *I* might be a *we*, but that's OK.
 - *You* are the user of this software. *You* might also be a *we*, and that's also OK!
 
->if "you" are actualy microsoft,or apple you are allready a jerk, PLEASE dont use "my" code.
+>if "you" are actualy microsoft,or apple you are already a jerk, PLEASE dont use "my" code.
 
 >google and alphabet, you can use my code but "I" want to be mentioned in some way and a e(g)mail would be nice
 (I know that you know who "I" am) =) adding "dont be EVIL to your Code of Conduct again would allso be nice
